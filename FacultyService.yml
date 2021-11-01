@@ -6,6 +6,6 @@ faculty-service-greeting: 'Welcome to Faculty Service'
 eureka:
   client:
     serviceUrl:
-      defaultZone: http://localhost:8761/eureka
+      defaultZone: http://localhost:8761
   instance:
     preferIpAddress: true
